@@ -1,0 +1,2 @@
+v18 14/4/2017 added PLL ON/OFF  switch during measurements /added multigrid switch
+v19 18/4/2017 removed multiGrid/ changed set session from autoIt to Nanonis API
