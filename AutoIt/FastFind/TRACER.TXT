@@ -1,0 +1,14 @@
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Fri Jul 29 17:40:29 2016
+
+            23.989mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+             1.106mS|ChangeMode(7) => m_bDebugGraphique=1, m_DebugModeTxt=   3
+             21.790S|
+   ** SelectWindow
+            10.719mS|ChangeMode(3) => m_bDebugGraphique=0, m_DebugModeTxt=   3
+            37.506mS|   ** SelectWindow => Title of the Window:  Class:TeamViewer_TitleBarButtonClass
+              5.311S|
+   ** SelectWindow
+             5.995mS|ChangeMode(3) => m_bDebugGraphique=0, m_DebugModeTxt=   3
+            36.555mS|   ** SelectWindow => Title of the Window: Scan Control Class:LVDChild
