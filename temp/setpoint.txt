@@ -1,1 +1,1 @@
-{"Z Controller setpoint":9.9999999600419720025e-12,"Bias (V)":-1,"Z position (m)":-2.810954313758884382e-08,"Amplitude (m)":5.9999998025528356038e-11}
+{"Z Controller setpoint":9.9999999600419720025e-12,"Bias (V)":-0.5,"Z position (m)":3.9069224300192217925e-08,"Amplitude (m)":5.9999998025528356038e-11}
